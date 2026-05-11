@@ -1,1 +1,22 @@
+{
+  "slug": "interview-one",
+  "title": "Interview One",
+  "author": "XXXX",
+  "excerpt": "A conversation exploring skating and community.",
+  "cover": "IMAGE_URL",
+  "tags": ["interview"],
 
+  "content": [
+    { "type": "image", "src": "IMAGE_URL" },
+    { "type": "text", "text": "Intro text..." },
+
+    { "type": "subheading", "text": "Section Title" },
+
+    { "type": "qa", "speaker": "V", "text": "Question..." },
+    { "type": "qa", "speaker": "X", "text": "Answer..." },
+
+    { "type": "quote", "text": "A highlighted quote." },
+
+    { "type": "video", "src": "https://www.youtube.com/embed/dQw4w9WgXcQ" }
+  ]
+}
