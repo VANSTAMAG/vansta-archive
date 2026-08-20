@@ -5,11 +5,22 @@
     "author": "Danny",
     "excerpt": "xxxx",
     "cover": "/api/media/image/media/images/skate--2026_07_20-13-31-55-1787237905652.png",
-    "tags": ["news"],
+    "tags": [
+      "news"
+    ],
     "content": [
-      {"type": "text", "text": "xxxx"},
-      {"type": "image", "src": "/api/media/image/media/images/group-23-1787237926385.png"},
-      {"type": "quote", "text": "I can't believe this works!"}
+      {
+        "type": "text",
+        "text": "xxxx"
+      },
+      {
+        "type": "image",
+        "src": "/api/media/image/media/images/group-23-1787237926385.png"
+      },
+      {
+        "type": "quote",
+        "text": "I can't believe this works!"
+      }
     ],
     "status": "published",
     "updatedAt": "2026-08-20T16:15:20.596Z",
@@ -22,7 +33,9 @@
     "author": "Gary",
     "excerpt": "",
     "cover": "/api/media/image/media/images/frame-138-1787220106091.png",
-    "tags": ["photo"],
+    "tags": [
+      "photo"
+    ],
     "content": [],
     "status": "published",
     "updatedAt": "2026-08-20T16:14:42.393Z",
