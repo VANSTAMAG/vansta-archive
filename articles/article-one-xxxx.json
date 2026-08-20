@@ -1,0 +1,28 @@
+{
+  "slug": "article-one-xxxx",
+  "title": "Article One: XXXX",
+  "author": "Danny",
+  "excerpt": "xxxx",
+  "cover": "/api/media/image/media/images/skate--2026_07_20-13-31-55-1787237905652.png",
+  "tags": [
+    "news"
+  ],
+  "content": [
+    {
+      "type": "text",
+      "text": "xxxx"
+    },
+    {
+      "type": "image",
+      "src": "/api/media/image/media/images/group-23-1787237926385.png"
+    },
+    {
+      "type": "quote",
+      "text": "I can't believe this works!"
+    }
+  ],
+  "status": "published",
+  "updatedAt": "2026-08-20T15:05:42.392Z",
+  "updatedBy": "VANSTAMAG",
+  "publishedAt": "2026-08-20T15:05:42.392Z"
+}
