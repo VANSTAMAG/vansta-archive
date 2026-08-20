@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "slug": "article-one-xxxx",
+    "title": "Article One: XXXX",
+    "author": "Danny",
+    "excerpt": "xxxx",
+    "cover": "/api/media/image/media/images/skate--2026_07_20-13-31-55-1787237905652.png",
+    "tags": ["news"],
+    "content": [
+      {"type": "text", "text": "xxxx"},
+      {"type": "image", "src": "/api/media/image/media/images/group-23-1787237926385.png"},
+      {"type": "quote", "text": "I can't believe this works!"}
+    ],
+    "status": "published",
+    "updatedAt": "2026-08-20T16:15:20.596Z",
+    "updatedBy": "VANSTAMAG",
+    "publishedAt": "2026-08-20T16:15:20.596Z"
+  },
+  {
+    "slug": "testing",
+    "title": "Testing",
+    "author": "Gary",
+    "excerpt": "",
+    "cover": "/api/media/image/media/images/frame-138-1787220106091.png",
+    "tags": ["photo"],
+    "content": [],
+    "status": "published",
+    "updatedAt": "2026-08-20T16:14:42.393Z",
+    "updatedBy": "VANSTAMAG",
+    "publishedAt": "2026-08-20T16:14:42.393Z"
+  },
+  {
+    "slug": "interview-one",
+    "title": "Interview One: XXXX",
+    "author": "XXXX",
+    "excerpt": "A conversation exploring skating and community.",
+    "cover": "...",
+    "tags": ["interview"],
+    "publishAt": "2026-08-22T20:00:00+01:00",
+    "content": [
+      {"type": "image", "src": "https://imgproxy.fourthwall.dev/7RwTtD0C3zwGhAoCKw00zpC93i3tWDA9eQK2A12cUbk/w:1440/sm:1/enc/chIrd6r1YTwLYTyW/gjUMt4qdjxlFqQWY/AgCK38kZsZMTGOki/1QoTT4RxkPQGtgD5/GjqRYP1uk8pgy_Rc/jbPpqOon1KyFxo38/WLXamYRO2Z9dELlP/217Vs_WZRMxoDH3V/IvPUEeDTvm9hWdbn/s1yDHArKcLzaeQlE/QmD20eAUx9MAPkBw/_BiyT6-ptGjcTd31/NNu3zvKkgYPAU_tJ/SYMkFVPDhdqR8VIz/EjEG2o2kX1X6PW6Z/1hEsmC54DDLI98ER.jpg"},
+      {"type": "text", "text": "Intro text..."},
+      {"type": "subheading", "text": "Section Title"},
+      {"type": "qa", "speaker": "V", "text": "Question..."},
+      {"type": "qa", "speaker": "X", "text": "Answer..."},
+      {"type": "quote", "text": "A highlighted quote."},
+      {"type": "video", "src": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1&pp=ygULcmljayBhc3RsZXmgBwE%3D"}
+    ]
+  }
+]
