@@ -1,0 +1,18 @@
+{
+  "slug": "finally-article",
+  "title": "Finally Article",
+  "author": "xxxx",
+  "excerpt": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "cover": "/api/media/image/media/images/skate--2026_07_20-13-31-41-1787249227379.png",
+  "tags": [],
+  "content": [
+    {
+      "type": "image",
+      "src": "/api/media/image/media/images/frame-151-1787249235920.png"
+    }
+  ],
+  "status": "published",
+  "updatedAt": "2026-08-20T18:08:42.391Z",
+  "updatedBy": "VANSTAMAG",
+  "publishedAt": "2026-08-20T18:08:42.391Z"
+}
