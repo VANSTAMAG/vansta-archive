@@ -1,5 +1,20 @@
 [
   {
+    "slug": "schedule-test-2",
+    "title": "Schedule Test 2",
+    "author": "xxxxx",
+    "excerpt": "xxxxxxxxxxxxxxxx",
+    "cover": "https://raw.githubusercontent.com/VANSTAMAG/vansta-archive/main/media/images/skate--2026_07_26-11-46-58-1787316533595.png",
+    "tags": [
+      "culture"
+    ],
+    "content": [],
+    "status": "published",
+    "updatedAt": "2026-08-21T12:50:42.391Z",
+    "updatedBy": "VANSTAMAG",
+    "publishedAt": "2026-08-21T12:50:42.391Z"
+  },
+  {
     "slug": "test-articlez",
     "title": "test articlez",
     "author": "zzzzzz",
