@@ -1,5 +1,18 @@
 [
   {
+    "slug": "test-articlez",
+    "title": "test articlez",
+    "author": "zzzzzz",
+    "excerpt": "zzzzzzzzzzz",
+    "cover": "https://raw.githubusercontent.com/VANSTAMAG/vansta-archive/main/media/images/img_6273-1-1787250406488.png",
+    "tags": [],
+    "content": [],
+    "status": "published",
+    "updatedAt": "2026-08-21T11:50:39.028Z",
+    "updatedBy": "VANSTAMAG",
+    "publishedAt": "2026-08-21T11:50:39.028Z"
+  },
+  {
     "slug": "xxxxxxxxxxxxxxx",
     "title": "xxxxxxxxxxxxxxx",
     "author": "xxxxxxxxxxxxxxxxxxxxx",
