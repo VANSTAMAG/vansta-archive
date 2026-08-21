@@ -1,0 +1,16 @@
+{
+  "slug": "scheduler-test-3",
+  "title": "Scheduler Test 3",
+  "author": "XXXXXXXXXX",
+  "excerpt": "XXXXXXXXXXXXXXXXXXXX",
+  "cover": "/api/media/image/media/images/thumbnail-1787323751819.jpg",
+  "tags": [
+    "news",
+    "culture"
+  ],
+  "content": [],
+  "status": "published",
+  "updatedAt": "2026-08-21T14:50:42.392Z",
+  "updatedBy": "VANSTAMAG",
+  "publishedAt": "2026-08-21T14:50:42.392Z"
+}
