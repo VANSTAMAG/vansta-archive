@@ -4,15 +4,35 @@
     "title": "Schedule Test 2",
     "author": "xxxxx",
     "excerpt": "xxxxxxxxxxxxxxxx",
-    "cover": "https://raw.githubusercontent.com/VANSTAMAG/vansta-archive/main/media/images/skate--2026_07_26-11-46-58-1787316533595.png",
+    "cover": "/api/media/image/media/images/skate--2026_07_26-11-46-58-1787316533595.png",
     "tags": [
       "culture"
     ],
     "content": [],
     "status": "published",
-    "updatedAt": "2026-08-21T12:50:42.391Z",
+    "updatedAt": "2026-08-21T13:28:42.391Z",
     "updatedBy": "VANSTAMAG",
-    "publishedAt": "2026-08-21T12:50:42.391Z"
+    "publishedAt": "2026-08-21T13:28:42.391Z"
+  },
+  {
+    "slug": "schedule-test",
+    "title": "Schedule Test",
+    "author": "XXXX",
+    "excerpt": "XXXXX",
+    "cover": "/api/media/image/media/images/skate--2026_08_01-13-55-05-1787313078388.png",
+    "tags": [
+      "culture"
+    ],
+    "content": [
+      {
+        "type": "quote",
+        "text": "This is simply a test."
+      }
+    ],
+    "status": "published",
+    "updatedAt": "2026-08-21T12:20:42.394Z",
+    "updatedBy": "VANSTAMAG",
+    "publishedAt": "2026-08-21T12:20:42.394Z"
   },
   {
     "slug": "test-articlez",
@@ -50,12 +70,12 @@
     "title": "Finally Article",
     "author": "xxxx",
     "excerpt": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-    "cover": "https://vansta-editorial-blond.vercel.app/api/media/image/media/images/skate--2026_07_20-13-31-41-1787249227379.png",
+    "cover": "/api/media/image/media/images/skate--2026_07_20-13-31-41-1787249227379.png",
     "tags": [],
     "content": [
       {
         "type": "image",
-        "src": "https://vansta-editorial-blond.vercel.app/api/media/image/media/images/frame-151-1787249235920.png"
+        "src": "/api/media/image/media/images/frame-151-1787249235920.png"
       }
     ],
     "status": "published",
@@ -126,7 +146,7 @@
       },
       {
         "type": "video",
-        "src": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1&pp=ygULcmljayBhc3RsZXmgBwE%3D"
+        "src": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw9WgXcQ&start_radio=1&pp=ygULcmljayBhc3RsZXmgBwE%3D"
       }
     ],
     "status": "published",
