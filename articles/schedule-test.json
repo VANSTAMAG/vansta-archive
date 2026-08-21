@@ -1,0 +1,20 @@
+{
+  "slug": "schedule-test",
+  "title": "Schedule Test",
+  "author": "XXXX",
+  "excerpt": "XXXXX",
+  "cover": "/api/media/image/media/images/skate--2026_08_01-13-55-05-1787313078388.png",
+  "tags": [
+    "culture"
+  ],
+  "content": [
+    {
+      "type": "quote",
+      "text": "This is simply a test."
+    }
+  ],
+  "status": "published",
+  "updatedAt": "2026-08-21T11:52:42.393Z",
+  "updatedBy": "VANSTAMAG",
+  "publishedAt": "2026-08-21T11:52:42.393Z"
+}
