@@ -1,10 +1,25 @@
 [
   {
+    "slug": "new-test-1",
+    "title": "NEW TEST 1",
+    "author": "XXXX",
+    "excerpt": "XXXXXXXX",
+    "cover": "https://raw.githubusercontent.com/VANSTAMAG/vansta-archive/main/media/images/jamboree6tom-1787322041184.png",
+    "tags": [
+      "culture"
+    ],
+    "content": [],
+    "status": "published",
+    "updatedAt": "2026-08-21T14:21:42.392Z",
+    "updatedBy": "VANSTAMAG",
+    "publishedAt": "2026-08-21T14:21:42.392Z"
+  },
+  {
     "slug": "schedule-test-2",
     "title": "Schedule Test 2",
     "author": "xxxxx",
     "excerpt": "xxxxxxxxxxxxxxxx",
-    "cover": "/api/media/image/media/images/skate--2026_07_26-11-46-58-1787316533595.png",
+    "cover": "https://raw.githubusercontent.com/VANSTAMAG/vansta-archive/main/media/images/skate--2026_07_26-11-46-58-1787316533595.png",
     "tags": [
       "culture"
     ],
@@ -19,7 +34,7 @@
     "title": "Schedule Test",
     "author": "XXXX",
     "excerpt": "XXXXX",
-    "cover": "/api/media/image/media/images/skate--2026_08_01-13-55-05-1787313078388.png",
+    "cover": "https://raw.githubusercontent.com/VANSTAMAG/vansta-archive/main/media/images/skate--2026_08_01-13-55-05-1787313078388.png",
     "tags": [
       "culture"
     ],
@@ -70,12 +85,12 @@
     "title": "Finally Article",
     "author": "xxxx",
     "excerpt": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-    "cover": "/api/media/image/media/images/skate--2026_07_20-13-31-41-1787249227379.png",
+    "cover": "https://raw.githubusercontent.com/VANSTAMAG/vansta-archive/main/media/images/skate--2026_07_20-13-31-41-1787249227379.png",
     "tags": [],
     "content": [
       {
         "type": "image",
-        "src": "/api/media/image/media/images/frame-151-1787249235920.png"
+        "src": "https://raw.githubusercontent.com/VANSTAMAG/vansta-archive/main/media/images/frame-151-1787249235920.png"
       }
     ],
     "status": "published",
@@ -146,7 +161,7 @@
       },
       {
         "type": "video",
-        "src": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw9WgXcQ&start_radio=1&pp=ygULcmljayBhc3RsZXmgBwE%3D"
+        "id": "dQw4w9WgXcQ"
       }
     ],
     "status": "published",
