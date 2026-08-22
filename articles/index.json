@@ -1,20 +1,5 @@
 [
   {
-    "slug": "scheduler-test-5",
-    "title": "Scheduler Test 5",
-    "author": "Scheduler Test 5",
-    "excerpt": "Scheduler Test 5",
-    "cover": "https://raw.githubusercontent.com/VANSTAMAG/vansta-archive/main/media/images/team-vansta---thanks-you-03-1787397081012.jpg",
-    "tags": [
-      "news"
-    ],
-    "content": [],
-    "status": "published",
-    "updatedAt": "2026-08-22T11:15:42.393Z",
-    "updatedBy": "VANSTAMAG",
-    "publishedAt": "2026-08-22T11:15:42.393Z"
-  },
-  {
     "slug": "schedule-test",
     "title": "Schedule Test",
     "author": "XXXX",
