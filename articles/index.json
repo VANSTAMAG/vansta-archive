@@ -51,19 +51,6 @@
     "publishedAt": "2026-08-22T10:44:42.392Z"
   },
   {
-    "slug": "test-articlez",
-    "title": "test articlez",
-    "author": "zzzzzz",
-    "excerpt": "zzzzzzzzzzz",
-    "cover": "https://raw.githubusercontent.com/VANSTAMAG/vansta-archive/main/media/images/img_6273-1-1787250406488.png",
-    "tags": [],
-    "content": [],
-    "status": "published",
-    "updatedAt": "2026-08-22T10:43:42.390Z",
-    "updatedBy": "VANSTAMAG",
-    "publishedAt": "2026-08-22T10:43:42.390Z"
-  },
-  {
     "slug": "scheduler-test-4-the-timed-release",
     "title": "Scheduler Test 4 — The Timed Release",
     "author": "Scheduler Test 4 — The Timed Release",
