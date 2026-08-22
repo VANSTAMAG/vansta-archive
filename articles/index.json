@@ -1,21 +1,5 @@
 [
   {
-    "slug": "scheduler-test-6-london-time",
-    "title": "Scheduler Test 6 — London Time",
-    "author": "Scheduler Test 6 — London Time",
-    "excerpt": "Scheduler Test 6 — London Time",
-    "cover": "https://raw.githubusercontent.com/VANSTAMAG/vansta-archive/main/media/images/goph-1787397765834.png",
-    "tags": [
-      "news",
-      "photo"
-    ],
-    "content": [],
-    "status": "published",
-    "updatedAt": "2026-08-22T11:24:13.194Z",
-    "updatedBy": "VANSTAMAG",
-    "publishedAt": "2026-08-22T11:24:13.194Z"
-  },
-  {
     "slug": "scheduler-test-5",
     "title": "Scheduler Test 5",
     "author": "Scheduler Test 5",
