@@ -103,24 +103,6 @@
     "publishedAt": "2026-08-21T11:50:39.028Z"
   },
   {
-    "slug": "xxxxxxxxxxxxxxx",
-    "title": "xxxxxxxxxxxxxxx",
-    "author": "xxxxxxxxxxxxxxxxxxxxx",
-    "excerpt": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
-    "cover": "https://raw.githubusercontent.com/VANSTAMAG/vansta-archive/main/media/images/frame-126-1787250153719.png",
-    "tags": [],
-    "content": [
-      {
-        "type": "image",
-        "src": "https://raw.githubusercontent.com/VANSTAMAG/vansta-archive/main/media/images/frame-154-1787250166218.png"
-      }
-    ],
-    "status": "published",
-    "updatedAt": "2026-08-20T18:23:14.996Z",
-    "updatedBy": "VANSTAMAG",
-    "publishedAt": "2026-08-20T18:23:14.996Z"
-  },
-  {
     "slug": "media-test",
     "title": "MEDIA TEST",
     "author": "MEDIA MAN",
