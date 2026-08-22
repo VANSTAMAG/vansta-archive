@@ -106,26 +106,6 @@
     "publishedAt": "2026-08-21T13:28:42.391Z"
   },
   {
-    "slug": "schedule-test",
-    "title": "Schedule Test",
-    "author": "XXXX",
-    "excerpt": "XXXXX",
-    "cover": "https://raw.githubusercontent.com/VANSTAMAG/vansta-archive/main/media/images/skate--2026_08_01-13-55-05-1787313078388.png",
-    "tags": [
-      "culture"
-    ],
-    "content": [
-      {
-        "type": "quote",
-        "text": "This is simply a test."
-      }
-    ],
-    "status": "published",
-    "updatedAt": "2026-08-21T12:20:42.394Z",
-    "updatedBy": "VANSTAMAG",
-    "publishedAt": "2026-08-21T12:20:42.394Z"
-  },
-  {
     "slug": "test-articlez",
     "title": "test articlez",
     "author": "zzzzzz",
