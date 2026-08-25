@@ -1,1 +1,90 @@
-[]
+[
+  {
+    "slug": "season-05-a-first-look",
+    "title": "SEASON 05: A FIRST LOOK",
+    "author": "Gary Lee",
+    "excerpt": "A look at the latest on what is coming to San Van in Season 05.",
+    "cover": "https://raw.githubusercontent.com/VANSTAMAG/vansta-archive/main/media/images/s5cover-1787662120327.jpg",
+    "tags": [
+      "news",
+      "culture"
+    ],
+    "content": [
+      {
+        "type": "image",
+        "src": "https://raw.githubusercontent.com/VANSTAMAG/vansta-archive/main/media/images/s05_promoart_1920x1080-1787676204408.jpg"
+      },
+      {
+        "type": "subheading",
+        "text": "SOMETHING’S CHANGING"
+      },
+      {
+        "type": "text",
+        "text": "August 18th saw a peculiar clip start doing the rounds across San Van. A loc hits a bank gap at Rectory Park, and pops a crazy underflip - Rodney Mullen’s piece of freestyle wizardry, first developed in the early ’90s and since passed down through generations of skaters, but rarely seen on these streets. As far as anyone can tell, it’s the first one caught on tape in San Van. Word on the street is that the individual behind the clip rides with a crew that’s been bringing these tricks to town and back into popular shredding. Tricks, techniques and ways of skating picked up elsewhere and put to work on San Van soil. I also hear they've been playing around with different variations of these, as well as pushing the limits of footplants. We expect this to be a growing trend amoungst San Vanners over the coming months as this clip circulates more."
+      },
+      {
+        "type": "video",
+        "id": "Hfj33T4gZq8"
+      },
+      {
+        "type": "text",
+        "text": "This isn't the only news we've received…"
+      },
+      {
+        "type": "subheading",
+        "text": "S.U.M.R. CAMP & NEW SPOTS"
+      },
+      {
+        "type": "image",
+        "src": "https://raw.githubusercontent.com/VANSTAMAG/vansta-archive/main/media/images/image001-1787672829219.jpg"
+      },
+      {
+        "type": "text",
+        "text": "S.U.M.R. Camp is reopening it's gates! For those who don't know about this San Van gem, back in the late '80s, when an abandoned ski resort was considered a perfectly reasonable place to send a few hundred kids for the holidays, skaters created this adrenaline fueled Mega Park. The attractions were enormous, rough around the edges and unmistakably DIY. Eventually, the injuries, lawsuits and increasingly nervous insurers caught up with it. The mountain closed, the lifts stopped turning and the Megapark disappeared into the overgrowth.\n\nBack via extensive renovation, a new group of investors who saw something everyone else had written off, and some slightly corrupt insurance loopholes, the camp is the new place for those who like big air, insane speed, and DIY sketchiness.\n\nFrom what we've seen, the old resort has been given a serious facelift. The mountain is packed with huge wooden ramps and transitions, cabins, bridges, and enough lines to keep you occupied long after you've forgotten where you started. The old gondola system is seeing action too, although apparently it's found a new purpose beyond simply getting people up the mountain. If you're looking for height, the Mega Park has plenty of it!\n\nAccess to S.U.M.R. Camp begins September 8th for Premium Pass holders, with access becoming available for all from October 6th. The Stadium and Grom are still accessible, all for your sweet sweet ripchips! \n\nWe also have some new street spots courtesy of SVCC. Parry Point Park along Blue Light Beach in Hedgemont is getting some attention, with a refreshed area expected to open later in the season."
+      },
+      {
+        "type": "subheading",
+        "text": "NEW GEAR"
+      },
+      {
+        "type": "image",
+        "src": "https://raw.githubusercontent.com/VANSTAMAG/vansta-archive/main/media/images/s5brands-1787672881697.png"
+      },
+      {
+        "type": "text",
+        "text": "Converse, Baker, Deathwish, Online Ceramics, Welcome, and There / Unity are coming to the Extravert skate shop, bringing some fresh names into your wardrobe and setup!\n\nThe new additions aren't stopping there either. Nike SB and Adidas are also getting some fresh gear into the store, and the skate.Pass receiving a refresh to match. Vans are also dropping a Season 05 starter pack for those looking to change things up without completely emptying ya wallets.\n\nWe expect plenty more to start appearing once Season 05 gets underway."
+      },
+      {
+        "type": "subheading",
+        "text": "THE LAST SIGHTING OF SLAPPY"
+      },
+      {
+        "type": "image",
+        "src": "https://raw.githubusercontent.com/VANSTAMAG/vansta-archive/main/media/images/last-sighting-of-slappy-1787674274532.png"
+      },
+      {
+        "type": "text",
+        "text": "Somewhere along the way, Slappy disappeared.\n\nFor those who've somehow managed to miss the saga, our favorite San Van icon has been notably absent. Now, a new SVN documentary is setting out to find him.\n\nThe last known sightings have sent people looking across the city, and if the footage we've seen so far is anything to go by, this isn't going to be a straightforward search. Whether Slappy is hiding, lost, or simply sick of being bothered by skaters remains unclear.\n\nSVN's investigation launches alongside Season 05.\n\nWe'll be keeping an eye on it."
+      },
+      {
+        "type": "spacer",
+        "size": "small"
+      },
+      {
+        "type": "subheading",
+        "text": "DISCLAIMER"
+      },
+      {
+        "type": "text",
+        "text": "\n\nAll images, logos, trademarks and other media featured in this article remain the property of their respective owners. VANSTA does not claim ownership of any third-party materials used and all rights remain with their rightful owner(s). Materials are used for editorial, informational and commentary purposes only.\n",
+        "src": "/api/media/image/media/images/s5cover-1787670978784.jpg"
+      }
+    ],
+    "status": "published",
+    "updatedAt": "2026-08-25T17:00:42.645Z",
+    "updatedBy": "VANSTAMAG",
+    "updatedByGithub": "VANSTAMAG",
+    "authorTimezone": "Europe/London",
+    "publishedAt": "2026-08-25T17:00:42.645Z"
+  }
+]
