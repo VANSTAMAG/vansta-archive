@@ -12,7 +12,8 @@
     "content": [
       {
         "type": "image",
-        "src": "https://raw.githubusercontent.com/VANSTAMAG/vansta-archive/main/media/images/s05_promoart_1920x1080-1787676204408.jpg"
+        "src": "https://raw.githubusercontent.com/VANSTAMAG/vansta-archive/main/media/images/s05_promoart_1920x1080-1787676204408.jpg",
+        "contentCredit": "Photo: Skate."
       },
       {
         "type": "subheading",
@@ -36,7 +37,8 @@
       },
       {
         "type": "image",
-        "src": "https://raw.githubusercontent.com/VANSTAMAG/vansta-archive/main/media/images/image001-1787672829219.jpg"
+        "src": "https://raw.githubusercontent.com/VANSTAMAG/vansta-archive/main/media/images/image001-1787672829219.jpg",
+        "contentCredit": "Photo: Skate."
       },
       {
         "type": "text",
@@ -60,31 +62,21 @@
       },
       {
         "type": "image",
-        "src": "https://raw.githubusercontent.com/VANSTAMAG/vansta-archive/main/media/images/last-sighting-of-slappy-1787674274532.png"
+        "src": "https://raw.githubusercontent.com/VANSTAMAG/vansta-archive/main/media/images/last-sighting-of-slappy-1787674274532.png",
+        "contentCredit": "Photo: Skate."
       },
       {
         "type": "text",
         "text": "Somewhere along the way, Slappy disappeared.\n\nFor those who've somehow managed to miss the saga, our favorite San Van icon has been notably absent. Now, a new SVN documentary is setting out to find him.\n\nThe last known sightings have sent people looking across the city, and if the footage we've seen so far is anything to go by, this isn't going to be a straightforward search. Whether Slappy is hiding, lost, or simply sick of being bothered by skaters remains unclear.\n\nSVN's investigation launches alongside Season 05.\n\nWe'll be keeping an eye on it."
-      },
-      {
-        "type": "spacer",
-        "size": "small"
-      },
-      {
-        "type": "subheading",
-        "text": "DISCLAIMER"
-      },
-      {
-        "type": "text",
-        "text": "\n\nAll images, logos, trademarks and other media featured in this article remain the property of their respective owners. VANSTA does not claim ownership of any third-party materials used and all rights remain with their rightful owner(s). Materials are used for editorial, informational and commentary purposes only.\n",
-        "src": "/api/media/image/media/images/s5cover-1787670978784.jpg"
       }
     ],
     "status": "published",
-    "updatedAt": "2026-08-25T17:00:42.645Z",
+    "disclaimer": "VANSTA is an independent fan-made publication and is not affiliated with Electronic Arts, Full Circle or the Skate franchise. All trademarks, names, logos and imagery belong to their respective owners. Where possible, original creators and rights holders are credited. If you are the rights holder of content featured here and would like it removed or credited differently, please contact VANSTA.",
+    "publishedAt": "2026-08-25T17:00:42.645Z",
+    "editedAt": "2026-08-28T15:03:12.232Z",
+    "updatedAt": "2026-08-28T15:03:12.232Z",
     "updatedBy": "VANSTAMAG",
     "updatedByGithub": "VANSTAMAG",
-    "authorTimezone": "Europe/London",
-    "publishedAt": "2026-08-25T17:00:42.645Z"
+    "authorTimezone": "Europe/London"
   }
 ]
